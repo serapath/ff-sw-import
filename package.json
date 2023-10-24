@@ -1,0 +1,15 @@
+{
+  "name": "ff-sw-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo --port=33333 --dir=. --cors=* --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^11.8.4"
+  }
+}
