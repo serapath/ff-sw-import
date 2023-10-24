@@ -1,4 +1,4 @@
-// import {cacheName} from './config.js'
+import {cacheName} from './config.js'
 
 console.log('SW', typeof cacheName)
 
